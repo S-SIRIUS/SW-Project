@@ -98,13 +98,13 @@ public class RockPaperScissorGame {
 
         switch (choice) {
             case ROCK:
-                return "Rock";
+                return "Rock!";
             case PAPER:
-                return "Paper";
+                return "Paper!";
             case SCISSOR:
-                return "Scissor";
+                return "Scissor!";
             default:
-                return "Invalid Choice";
+                return "Invalid Choice!";
         }
 
     }
