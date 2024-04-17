@@ -43,7 +43,5 @@ public class StringStack extends StackInterface{
         {
             System.out.print(stack.pop()+" ");
         }
-
-
     }
 }
