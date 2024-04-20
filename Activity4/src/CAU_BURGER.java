@@ -78,7 +78,6 @@ class Drink extends Orders{
 
 }
 
-
 public class CAU_BURGER {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
