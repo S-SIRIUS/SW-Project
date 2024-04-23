@@ -10,7 +10,7 @@ class CCg extends p{
     public int std_num;
 
     public CCg(String name, int num){
-        this.name=name;
+        super(name);
         this.std_num = num;
     }
 }
