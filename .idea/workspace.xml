@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b0a173-18df-48e1-93e7-49dc041b5c80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Activity1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity1/Activity1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Activity2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/Activity2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/Activity3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity3/src/RockPaperScissorGame/RockPaperScissorGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity3/src/RockPaperScissorGame/RockPaperScissorGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Activity4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity4/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity4/Activity4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/height.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/height.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/rectangle_zone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/rectangle_zone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/switch_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/switch_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P2/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/alphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/arrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/arrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/dimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/dimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/samyukgu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/samyukgu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/try_catch_finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/try_catch_finally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P3/weeks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P3/weeks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/GamblingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/GamblingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/PhoneManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/PhoneManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P4/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P4/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P5/ColorPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P5/ColorPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P5/MyAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P5/MyAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P5/NamedCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P5/NamedCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/P5/StringStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/P5/StringStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/c_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/c_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/field.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/final_field.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/final_field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/initialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/instanceof_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/instanceof_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/no_exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/no_exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/parent_change.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/parent_change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/parent_child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/parent_child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/sealed_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/sealed_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/static_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/static_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/midterm_practice/use_import.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/midterm_practice/use_import.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/string_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/string_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gKKUzxGJ27OzeuuCk6g3HNJ8FW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/github/SW-Project",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b0a173-18df-48e1-93e7-49dc041b5c80" name="Changes" comment="" />
+      <created>1715440849049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715440849049</updated>
+      <workItem from="1715440850204" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
