@@ -1,4 +1,4 @@
-/*package pack1;
+package pack1;
 import pack2.C;
 
 public class A{
@@ -7,5 +7,5 @@ public class A{
         return new C();
     }
 }
-*/
+
 

@@ -1,4 +1,5 @@
-module my_module_a {
+/*module my_module_a {
     requires transitive my_module_b;
     exports pack1;
 }
+ */
